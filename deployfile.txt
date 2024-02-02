@@ -1,1 +1,1 @@
-https://qr-code-generator-in-react.vercel.app/
+check out here : https://qr-code-generator-in-react.vercel.app/
